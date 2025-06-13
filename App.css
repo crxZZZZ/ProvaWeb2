@@ -1,0 +1,28 @@
+
+header{
+  display: flex;
+  min-height: 100px;
+  background-color: green;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+
+
+.ElementosHeader{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+}
+.Logo{
+   font-size: 40px;
+   color:white;
+}
+
+.LinksHeader{
+  display: flex;  
+  flex-direction: row;
+  gap:15px;
+}
