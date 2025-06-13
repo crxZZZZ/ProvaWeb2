@@ -1,0 +1,23 @@
+.conteudo-pets{
+    max-height: 800px;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    min-width: 200px;
+
+}
+
+
+
+.id-pet{
+    display:flex;
+    padding-bottom: 20px;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: rgb(104, 238, 51);
+    width: 120px;
+    min-height: 120px;
+
+}
+
